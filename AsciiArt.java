@@ -10,6 +10,14 @@
  */
 public class AsciiArt {
     public static void main(String[] args) {
+        System.out.println("     i i i");
+        System.out.println("   __|_|_|__");
+        System.out.println("  |   ___   |");
+        System.out.println("  |  |___|  |");
+        System.out.println("  +---------+");
+        System.out.println("  |   ___   |");
+        System.out.println("  |  |___|  |");
+        System.out.println("  +---------+");
         // TODO: Print your ASCII art here, one line per System.out.println/print call
     }
 }
